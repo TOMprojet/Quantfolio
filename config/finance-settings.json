@@ -1,0 +1,48 @@
+{
+    "cashSources": [
+        "PP",
+        "IBKR",
+        "Bitget File"
+    ],
+    "ignoredAssetSources": [
+        "Ledger CSV",
+        "Bitget"
+    ],
+    "fiatCurrency": "EUR",
+    "privacyMode": false,
+    "theme": "dark",
+    "watchlist": [
+        "MSFT",
+        "TPL",
+        "FICO",
+        "ANET",
+        "MSCI",
+        "MA",
+        "LB",
+        "GOOG",
+        "FTNT",
+        "MC.PA",
+        "NOV.DE",
+        "ASML.AS",
+        "RMS.PA",
+        "RACE.MI",
+        "ENX.PA"
+    ],
+    "fairPrices": {
+        "MSFT": 357,
+        "MSCI": 544.3138329607283,
+        "MC.PA": 567.9646275893293,
+        "ANET": 115.64664303447591,
+        "ASML.AS": 827.9059124099824,
+        "FICO": 1014.4798700562075,
+        "FTNT": 93.95180093613664,
+        "GOOG": 254.50541842405826,
+        "RMS.PA": 1301.6554248156365,
+        "RACE.MI": 229.12875928742488,
+        "LB": 57.70701736298659,
+        "MA": 560.9796642036204,
+        "ENX.PA": 117.0124129064236,
+        "NOV.DE": 48.629001670678974,
+        "TPL": 225.94999999999996
+    }
+}

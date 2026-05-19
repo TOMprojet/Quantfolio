@@ -1,0 +1,10 @@
+{
+    "mappings": {
+        "ASML HOLDING": "ASML.AS",
+        "ASML": "ASML.AS",
+        "iShares MSCI World EUR": "E3G1.F",
+        "iShares Core MSCI World UCITS ETF USD (Acc)": "E3G1.F",
+        "OR": "OR.PA",
+        "MC": "MC.PA"
+    }
+}

@@ -1,0 +1,122 @@
+<FlexQueryResponse queryName="tom" type="AF">
+<FlexStatements count="1">
+<FlexStatement accountId="U17749253" fromDate="20250513" toDate="20260512" period="LastNCalendarDays" whenGenerated="20260513;083956">
+<FIFOPerformanceSummaryInBase>
+<FIFOPerformanceSummaryUnderlying symbol="FICO" totalUnrealizedPnl="53.005028357" totalFifoPnl="53.005028357" />
+<FIFOPerformanceSummaryUnderlying symbol="FTNT" totalUnrealizedPnl="445.001295868" totalFifoPnl="445.001295868" />
+<FIFOPerformanceSummaryUnderlying symbol="GOOG" totalUnrealizedPnl="534.172138978" totalFifoPnl="534.172138978" />
+<FIFOPerformanceSummaryUnderlying symbol="LB" totalUnrealizedPnl="167.789708665" totalFifoPnl="167.789708665" />
+<FIFOPerformanceSummaryUnderlying symbol="MA" totalUnrealizedPnl="-115.833708706" totalFifoPnl="-115.833708706" />
+<FIFOPerformanceSummaryUnderlying symbol="MSCI" totalUnrealizedPnl="80.645323428" totalFifoPnl="80.645323428" />
+<FIFOPerformanceSummaryUnderlying symbol="USD" totalUnrealizedPnl="0" totalFifoPnl="-3.516716" />
+<FIFOPerformanceSummaryUnderlying symbol="" totalUnrealizedPnl="1164.779786588" totalFifoPnl="1161.263070588" />
+</FIFOPerformanceSummaryInBase><CashReport>
+<CashReportCurrency currency="BASE_SUMMARY" startingCash="43.706163025" startingCashSec="43.706163025" startingCashCom="0" endingCash="279.899527184" endingCashSec="279.899527184" endingCashCom="0" />
+<CashReportCurrency currency="EUR" startingCash="43.706163025" startingCashSec="43.706163025" startingCashCom="0" endingCash="279.899527184" endingCashSec="279.899527184" endingCashCom="0" />
+<CashReportCurrency currency="USD" startingCash="0" startingCashSec="0" startingCashCom="0" endingCash="0" endingCashSec="0" endingCashCom="0" />
+</CashReport>
+<OpenPositions>
+<OpenPosition listingExchange="NYSE" symbol="FICO" position="1" markPrice="1086" positionValue="1086" openPrice="1023.771457" fifoPnlUnrealized="62.228543" isin="US3032501047" />
+<OpenPosition listingExchange="NASDAQ" symbol="FTNT" position="15" markPrice="113.87" positionValue="1708.05" openPrice="79.040873867" fifoPnlUnrealized="522.436892" isin="US34959E1091" />
+<OpenPosition listingExchange="NASDAQ" symbol="GOOG" position="3" markPrice="383.82" positionValue="1151.46" openPrice="174.778487333" fifoPnlUnrealized="627.124538" isin="US02079K1079" />
+<OpenPosition listingExchange="NYSE" symbol="LB" position="13" markPrice="68" positionValue="884" openPrice="52.847142846" fifoPnlUnrealized="196.987143" isin="US5149521008" />
+<OpenPosition listingExchange="NYSE" symbol="MA" position="4" markPrice="499.81" positionValue="1999.24" openPrice="533.807543" fifoPnlUnrealized="-135.990172" isin="US57636Q1040" />
+<OpenPosition listingExchange="NYSE" symbol="MSCI" position="3" markPrice="581.09" positionValue="1743.27" openPrice="549.530472333" fifoPnlUnrealized="94.678583" isin="US55354G1004" />
+</OpenPositions><Trades>
+<Trade currency="USD" symbol="FICO" isin="US3032501047" tradeID="1370549257" relatedTradeID="" quantity="1" tradePrice="1023.42" tradeMoney="1023.42" taxes="0" netCash="-1023.77145725" closePrice="1011.06" fifoPnlRealized="0" buySell="BUY" dateTime="20260327;093001" />
+<Trade currency="USD" symbol="FTNT" isin="US34959E1091" tradeID="1130148911" relatedTradeID="" quantity="1" tradePrice="78.61" tradeMoney="78.61" taxes="0" netCash="-78.96048425" closePrice="79.29" fifoPnlRealized="0" buySell="BUY" dateTime="20250828;095517" />
+<Trade currency="USD" symbol="FTNT" isin="US34959E1091" tradeID="1209524373" relatedTradeID="" quantity="5" tradePrice="78.83" tradeMoney="394.15" taxes="0" netCash="-394.50136725" closePrice="80.54" fifoPnlRealized="0" buySell="BUY" dateTime="20251106;100050" />
+<Trade currency="USD" symbol="FTNT" isin="US34959E1091" tradeID="1333201666" relatedTradeID="" quantity="9" tradePrice="79.0888" tradeMoney="711.7992" taxes="0" netCash="-712.15125725" closePrice="79.2" fifoPnlRealized="0" buySell="BUY" dateTime="20260226;101500" />
+<Trade currency="USD" symbol="GOOG" isin="US02079K1079" tradeID="1071236434" relatedTradeID="" quantity="3" tradePrice="174.66" tradeMoney="523.98" taxes="0" netCash="-524.33546225" closePrice="178.27" fifoPnlRealized="0" buySell="BUY" dateTime="20250627;093001" />
+<Trade currency="USD" symbol="LB" isin="US5149521008" tradeID="1260200267" relatedTradeID="" quantity="13" tradePrice="52.82" tradeMoney="686.66" taxes="0" netCash="-687.01285725" closePrice="53.1" fifoPnlRealized="0" buySell="BUY" dateTime="20251224;093731" />
+<Trade currency="USD" symbol="MA" isin="US57636Q1040" tradeID="1160335517" relatedTradeID="" quantity="1" tradePrice="566.62" tradeMoney="566.62" taxes="0" netCash="-566.97147925" closePrice="565.13" fifoPnlRealized="0" buySell="BUY" dateTime="20250926;093000" />
+<Trade currency="USD" symbol="MA" isin="US57636Q1040" tradeID="1208109541" relatedTradeID="" quantity="1" tradePrice="550.0363" tradeMoney="550.0363" taxes="0" netCash="-550.38677925" closePrice="553.31" fifoPnlRealized="0" buySell="BUY" dateTime="20251105;113410" />
+<Trade currency="USD" symbol="MA" isin="US57636Q1040" tradeID="1333195024" relatedTradeID="" quantity="1" tradePrice="517.72" tradeMoney="517.72" taxes="0" netCash="-518.07045725" closePrice="514.77" fifoPnlRealized="0" buySell="BUY" dateTime="20260226;101411" />
+<Trade currency="USD" symbol="MA" isin="US57636Q1040" tradeID="1370532896" relatedTradeID="" quantity="1" tradePrice="499.45" tradeMoney="499.45" taxes="0" netCash="-499.80145725" closePrice="484.24" fifoPnlRealized="0" buySell="BUY" dateTime="20260327;093000" />
+<Trade currency="USD" symbol="MSCI" isin="US55354G1004" tradeID="1237715330" relatedTradeID="" quantity="1" tradePrice="549.59" tradeMoney="549.59" taxes="0" netCash="-549.94045725" closePrice="547.29" fifoPnlRealized="0" buySell="BUY" dateTime="20251202;142856" />
+<Trade currency="USD" symbol="MSCI" isin="US55354G1004" tradeID="1315092944" relatedTradeID="" quantity="1" tradePrice="514.37" tradeMoney="514.37" taxes="0" netCash="-514.72045725" closePrice="515.66" fifoPnlRealized="0" buySell="BUY" dateTime="20260210;151255" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1046109667" relatedTradeID="" quantity="1.348171" tradePrice="1.13487087" tradeMoney="1.53" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20250530;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1071228807" relatedTradeID="" quantity="-0.3" tradePrice="1.17055" tradeMoney="-0.351165" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250627;093002" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1071236650" relatedTradeID="" quantity="-447.06" tradePrice="1.17067" tradeMoney="-523.3597302" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250627;093003" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1071241985" relatedTradeID="" quantity="-0.53" tradePrice="1.17066" tradeMoney="-0.6204498" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250627;093008" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1072095407" relatedTradeID="" quantity="-0.00366866" tradePrice="1.17134128" tradeMoney="-0.004297251" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250627;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1130148916" relatedTradeID="" quantity="-0.3" tradePrice="1.16641" tradeMoney="-0.349923" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250828;095517" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1130148919" relatedTradeID="" quantity="-67.37" tradePrice="1.16649" tradeMoney="-78.5864313" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250828;095517" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1130148943" relatedTradeID="" quantity="-0.02" tradePrice="1.16649" tradeMoney="-0.0233298" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250828;095518" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1130851593" relatedTradeID="" quantity="-0.00032653" tradePrice="1.16756863" tradeMoney="-0.000381249" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250828;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1130852051" relatedTradeID="" quantity="-0.0002046" tradePrice="1.16764482" tradeMoney="-0.0002389" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250828;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1132198728" relatedTradeID="" quantity="1.30920509" tradePrice="1.16864807" tradeMoney="1.53" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20250829;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1147571879" relatedTradeID="" quantity="0.45906756" tradePrice="1.17629744" tradeMoney="0.54" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20250915;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1160339583" relatedTradeID="" quantity="-0.3" tradePrice="1.1659" tradeMoney="-0.34977" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250926;093001" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1160348080" relatedTradeID="" quantity="-485.24" tradePrice="1.16609" tradeMoney="-565.8335116" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250926;093003" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1160354390" relatedTradeID="" quantity="-0.67" tradePrice="1.16607" tradeMoney="-0.7812669" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250926;093005" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1161240304" relatedTradeID="" quantity="-0.00146144" tradePrice="1.16956771" tradeMoney="-0.00170925" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250926;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1161240679" relatedTradeID="" quantity="-0.00446366" tradePrice="1.16977864" tradeMoney="-0.0052215" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20250926;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1208109614" relatedTradeID="" quantity="-0.31" tradePrice="1.14714" tradeMoney="-0.3556134" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251105;113410" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1208109619" relatedTradeID="" quantity="-479.45" tradePrice="1.14719" tradeMoney="-550.0202455" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251105;113410" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1208109635" relatedTradeID="" quantity="-0.01" tradePrice="1.14719" tradeMoney="-0.0114719" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251105;113411" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1208718225" relatedTradeID="" quantity="0.0044663" tradePrice="1.14953231" tradeMoney="0.00513415" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20251105;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1208719574" relatedTradeID="" quantity="-0.00398869" tradePrice="1.14889901" tradeMoney="-0.0045826" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251105;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1209524192" relatedTradeID="" quantity="-342.21" tradePrice="1.15148" tradeMoney="-394.0479708" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251106;100050" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1209524418" relatedTradeID="" quantity="-0.31" tradePrice="1.15142" tradeMoney="-0.3569402" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251106;100050" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1209524428" relatedTradeID="" quantity="-0.08" tradePrice="1.15148" tradeMoney="-0.0921184" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251106;100050" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1210512022" relatedTradeID="" quantity="0.0048258" tradePrice="1.15482499" tradeMoney="0.00557295" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20251106;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1210513152" relatedTradeID="" quantity="-0.00858682" tradePrice="1.15418763" tradeMoney="-0.0099108" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251106;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1212290483" relatedTradeID="" quantity="0.5619648" tradePrice="1.15665607" tradeMoney="0.650000001" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20251107;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1234900368" relatedTradeID="" quantity="1.31918301" tradePrice="1.15980875" tradeMoney="1.529999999" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20251128;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1237715344" relatedTradeID="" quantity="-0.31" tradePrice="1.16098" tradeMoney="-0.3599038" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251202;142856" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1237715347" relatedTradeID="" quantity="-473.29" tradePrice="1.16104" tradeMoney="-549.5086216" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251202;142856" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1237715332" relatedTradeID="" quantity="-0.08" tradePrice="1.16104" tradeMoney="-0.0928832" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251202;142857" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1237945079" relatedTradeID="" quantity="0.00812445" tradePrice="1.16273085" tradeMoney="0.00944655" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20251202;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1237945094" relatedTradeID="" quantity="0.00989414" tradePrice="1.1627898" tradeMoney="0.0115048" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20251202;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1251288017" relatedTradeID="" quantity="0.45931871" tradePrice="1.17565427" tradeMoney="0.54" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20251215;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1260200270" relatedTradeID="" quantity="-0.3" tradePrice="1.17737" tradeMoney="-0.353211" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251224;093731" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1260200307" relatedTradeID="" quantity="-583.02" tradePrice="1.17748" tradeMoney="-686.4943896" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251224;093731" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1260200375" relatedTradeID="" quantity="-0.15" tradePrice="1.17748" tradeMoney="-0.176622" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20251224;093731" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1260556736" relatedTradeID="" quantity="0.00964849" tradePrice="1.17794042" tradeMoney="0.01136535" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20251224;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1313774136" relatedTradeID="" quantity="1.24176979" tradePrice="1.19184732" tradeMoney="1.48" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20260209;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1315092903" relatedTradeID="" quantity="-432.39" tradePrice="1.18948" tradeMoney="-514.3192572" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260210;151255" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1315092947" relatedTradeID="" quantity="-0.3" tradePrice="1.18943" tradeMoney="-0.356829" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260210;151255" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1315092949" relatedTradeID="" quantity="-0.04" tradePrice="1.18948" tradeMoney="-0.0475792" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260210;151256" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1315295923" relatedTradeID="" quantity="0.00535556" tradePrice="1.18974469" tradeMoney="0.00637175" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20260210;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1315296445" relatedTradeID="" quantity="-0.00266053" tradePrice="1.18908711" tradeMoney="-0.0031636" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260210;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1333195161" relatedTradeID="" quantity="-0.1" tradePrice="1.18032" tradeMoney="-0.118032" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260226;101411" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1333195384" relatedTradeID="" quantity="-438.53" tradePrice="1.18032" tradeMoney="-517.6057296" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260226;101411" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1333195483" relatedTradeID="" quantity="-0.3" tradePrice="1.18026" tradeMoney="-0.354078" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260226;101411" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1333201627" relatedTradeID="" quantity="-0.29" tradePrice="1.18021" tradeMoney="-0.3422609" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260226;101500" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1333201108" relatedTradeID="" quantity="-0.13" tradePrice="1.18027" tradeMoney="-0.1534351" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260226;101501" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1333201634" relatedTradeID="" quantity="-602.95" tradePrice="1.18027" tradeMoney="-711.6437965" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260226;101501" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1334101150" relatedTradeID="" quantity="0.00151981" tradePrice="1.1798872" tradeMoney="0.0017932" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20260226;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1334101187" relatedTradeID="" quantity="-0.00523745" tradePrice="1.17912393" tradeMoney="-0.0061756" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260226;170000" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1370562546" relatedTradeID="" quantity="-427.64" tradePrice="1.15109" tradeMoney="-492.2521276" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260327;093002" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1370573258" relatedTradeID="" quantity="-889.01" tradePrice="1.15204" tradeMoney="-1024.1750804" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260327;093004" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1370589906" relatedTradeID="" quantity="-0.04" tradePrice="1.15103" tradeMoney="-0.0460412" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="SELL" dateTime="20260327;093007" />
+<Trade currency="USD" symbol="EUR.USD" isin="" tradeID="1421801819" relatedTradeID="" quantity="2.51144802" tradePrice="1.1787362" tradeMoney="2.9603347" taxes="0" netCash="0" closePrice="0" fifoPnlRealized="0" buySell="BUY" dateTime="20260508;170000" />
+</Trades><TransactionTaxes>
+</TransactionTaxes><TradeTransfers>
+</TradeTransfers><CashTransactions>
+<CashTransaction symbol="MSCI" description="MSCI(US55354G1004) CASH DIVIDEND USD 1.80 PER SHARE - US TAX" dateTime="20250530;202000" amount="-0.27" exDate="" weight="0.0" />
+<CashTransaction symbol="MSCI" description="MSCI(US55354G1004) CASH DIVIDEND USD 1.80 PER SHARE - US TAX" dateTime="20250829;202000" amount="-0.27" exDate="" weight="0.0" />
+<CashTransaction symbol="GOOG" description="GOOG(US02079K1079) CASH DIVIDEND USD 0.21 PER SHARE - US TAX" dateTime="20250915;202000" amount="-0.09" exDate="" weight="0.0" />
+<CashTransaction symbol="MA" description="MA(US57636Q1040) CASH DIVIDEND USD 0.76 PER SHARE - US TAX" dateTime="20251107;202000" amount="-0.11" exDate="" weight="0.0" />
+<CashTransaction symbol="MSCI" description="MSCI(US55354G1004) CASH DIVIDEND USD 1.80 PER SHARE - US TAX" dateTime="20251128;202000" amount="-0.27" exDate="" weight="0.0" />
+<CashTransaction symbol="GOOG" description="GOOG(US02079K1079) CASH DIVIDEND USD 0.21 PER SHARE - US TAX" dateTime="20251215;202000" amount="-0.09" exDate="" weight="0.0" />
+<CashTransaction symbol="MA" description="MA(US57636Q1040) CASH DIVIDEND USD 0.87 PER SHARE - US TAX" dateTime="20260209;202000" amount="-0.26" exDate="" weight="0.0" />
+<CashTransaction symbol="MSCI" description="MSCI(US55354G1004) CASH DIVIDEND USD 2.05 PER SHARE - US TAX" dateTime="20260227;202000" amount="-0.92" exDate="" weight="0.0" />
+<CashTransaction symbol="GOOG" description="GOOG(US02079K1079) CASH DIVIDEND USD 0.21 PER SHARE - US TAX" dateTime="20260316;202000" amount="-0.09" exDate="" weight="0.0" />
+<CashTransaction symbol="LB" description="LB(US5149521008) CASH DIVIDEND USD 0.12 PER SHARE - US TAX" dateTime="20260319;202000" amount="-0.23" exDate="" weight="0.0" />
+<CashTransaction symbol="MA" description="MA(US57636Q1040) CASH DIVIDEND USD 0.87 PER SHARE - US TAX" dateTime="20260508;202000" amount="-0.52" exDate="" weight="0.0" />
+<CashTransaction symbol="" description="CASH RECEIPTS / ELECTRONIC FUND TRANSFERS" dateTime="20250627" amount="500" exDate="" weight="0.0" />
+<CashTransaction symbol="" description="CASH RECEIPTS / ELECTRONIC FUND TRANSFERS" dateTime="20250926" amount="500" exDate="" weight="0.0" />
+<CashTransaction symbol="" description="CASH RECEIPTS / ELECTRONIC FUND TRANSFERS" dateTime="20251029" amount="500" exDate="" weight="0.0" />
+<CashTransaction symbol="" description="CASH RECEIPTS / ELECTRONIC FUND TRANSFERS" dateTime="20251106" amount="400" exDate="" weight="0.0" />
+<CashTransaction symbol="" description="CASH RECEIPTS / ELECTRONIC FUND TRANSFERS" dateTime="20251127" amount="500" exDate="" weight="0.0" />
+<CashTransaction symbol="" description="CASH RECEIPTS / ELECTRONIC FUND TRANSFERS" dateTime="20251224" amount="500" exDate="" weight="0.0" />
+<CashTransaction symbol="" description="CASH RECEIPTS / ELECTRONIC FUND TRANSFERS" dateTime="20260129" amount="500" exDate="" weight="0.0" />
+<CashTransaction symbol="" description="CASH RECEIPTS / ELECTRONIC FUND TRANSFERS" dateTime="20260226" amount="1000" exDate="" weight="0.0" />
+<CashTransaction symbol="" description="CASH RECEIPTS / ELECTRONIC FUND TRANSFERS" dateTime="20260327" amount="1500" exDate="" weight="0.0" />
+</CashTransactions><OpenDividendAccruals>
+</OpenDividendAccruals>
+</FlexStatement>
+</FlexStatements>
+</FlexQueryResponse>

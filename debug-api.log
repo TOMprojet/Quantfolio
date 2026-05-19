@@ -1,0 +1,117 @@
+[2026-05-14T22:30:12.594Z] API REQUEST: "MSFT"
+[2026-05-14T22:30:12.595Z] searchYahoo type: function
+[2026-05-14T22:30:12.701Z] searchYahoo results: []
+[2026-05-14T22:30:47.171Z] API REQUEST: "AAPL"
+[2026-05-14T22:30:47.172Z] searchYahoo type: function
+[2026-05-14T22:30:47.272Z] searchYahoo results: []
+[2026-05-14T22:32:11.522Z] API REQUEST: "test"
+[2026-05-14T22:32:11.523Z] searchYahoo type: function
+[2026-05-14T22:32:11.525Z] searchYahoo results: [{"symbol":"TEST","name":"Test Asset","exchange":"TEST","type":"EQUITY"}]
+[2026-05-14T22:33:26.314Z] API REQUEST: "AA"
+[2026-05-14T22:33:26.314Z] searchYahoo type: function
+[2026-05-14T22:33:26.484Z] searchYahoo results: [{"symbol":"AA","name":"Alcoa Corporation","exchange":"NYQ","type":"EQUITY"},{"symbol":"AAPL","name":"Apple Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"AAVE-USD","name":"Aave USD","exchange":"CCC","type":"CRYPTOCURRENCY"},{"symbol":"AAL","name":"American Airlines Group, Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"AAOI","name":"Applied Optoelectronics, Inc.","exchange":"NGM","type":"EQUITY"},{"name":"AARP"},{"name":"AAVantgarde Bio"}]
+[2026-05-14T22:33:27.042Z] API REQUEST: "AAP"
+[2026-05-14T22:33:27.042Z] searchYahoo type: function
+[2026-05-14T22:33:27.186Z] searchYahoo results: [{"symbol":"AAP","name":"Advance Auto Parts Inc.","exchange":"NYQ","type":"EQUITY"},{"symbol":"AAPL","name":"Apple Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"AAPR","name":"Innovator Equity Defined Protec","exchange":"BTS","type":"ETF"},{"symbol":"0P0000CRAW.L","name":"0P0000CRAW.L","exchange":"LSE","type":"MUTUALFUND"},{"symbol":"AAPG","name":"Ascentage Pharma Group Internat","exchange":"NGM","type":"EQUITY"},{"name":"Aapya Solutions Inc."},{"name":"Aaptiv"}]
+[2026-05-14T22:33:29.633Z] API REQUEST: "AAPL"
+[2026-05-14T22:33:29.634Z] searchYahoo type: function
+[2026-05-14T22:33:29.753Z] searchYahoo results: [{"symbol":"AAPL","name":"Apple Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"AAPL.NE","name":"APPLE CDR (CAD HEDGED)","exchange":"NEO","type":"EQUITY"},{"symbol":"AAPD","name":"Direxion Daily AAPL Bear 1X ETF","exchange":"NGM","type":"ETF"},{"symbol":"AAPL.BA","name":"APPLE INC CEDEAR(REPR 1/20 SHR)","exchange":"BUE","type":"EQUITY"},{"symbol":"AAPLC.BA","name":"APPLE INC CEDEAR(REPR 1/20 SHR)","exchange":"BUE","type":"EQUITY"},{"symbol":"AAPL.VI","name":"APPLE INC","exchange":"VIE","type":"EQUITY"},{"name":"AAPlasma"}]
+[2026-05-14T22:33:52.714Z] API REQUEST: "LV"
+[2026-05-14T22:33:52.715Z] searchYahoo type: function
+[2026-05-14T22:33:52.888Z] searchYahoo results: [{"symbol":"LVDS","name":"J.P. Morgan Exchange-Traded Fun","exchange":"NGM","type":"EQUITY"},{"symbol":"MC.PA","name":"LVMH","exchange":"PAR","type":"EQUITY"},{"symbol":"LVS","name":"Las Vegas Sands Corp.","exchange":"NYQ","type":"EQUITY"},{"symbol":"HOD.TO","name":"BETAPRO CRUDE OIL INV LVGD DLY ","exchange":"TOR","type":"ETF"},{"symbol":"HOU.TO","name":"BETAPRO CRUDE OIL LVGD DLY BULL","exchange":"TOR","type":"ETF"},{"name":"LVX Ventures"},{"name":"TEMBO E-LV"}]
+[2026-05-14T22:33:53.226Z] API REQUEST: "LVM"
+[2026-05-14T22:33:53.227Z] searchYahoo type: function
+[2026-05-14T22:33:53.348Z] searchYahoo results: [{"symbol":"MC.PA","name":"LVMH","exchange":"PAR","type":"EQUITY"},{"symbol":"LV.NE","name":"LVMH CDR (CAD HEDGED)","exchange":"NEO","type":"EQUITY"},{"symbol":"LVMUY","name":"LVMH-Moet Hennessy Louis Vuitto","exchange":"PNK","type":"EQUITY"},{"symbol":"AT0000A324Q2.VI","name":"EB MemExpr LVMH SE 23-28","exchange":"VIE","type":"EQUITY"},{"symbol":"4MC.TI","name":"LVMH","exchange":"TLO","type":"EQUITY"},{"name":"Lvmama"},{"name":"Hennessy Maison - LVMH"}]
+[2026-05-14T22:33:53.607Z] API REQUEST: "LVMH"
+[2026-05-14T22:33:53.608Z] searchYahoo type: function
+[2026-05-14T22:33:53.761Z] searchYahoo results: [{"symbol":"MC.PA","name":"LVMH","exchange":"PAR","type":"EQUITY"},{"symbol":"LV.NE","name":"LVMH CDR (CAD HEDGED)","exchange":"NEO","type":"EQUITY"},{"symbol":"LVMUY","name":"LVMH-Moet Hennessy Louis Vuitto","exchange":"PNK","type":"EQUITY"},{"symbol":"AT0000A324Q2.VI","name":"EB MemExpr LVMH SE 23-28","exchange":"VIE","type":"EQUITY"},{"symbol":"4MC.TI","name":"LVMH","exchange":"TLO","type":"EQUITY"},{"symbol":"MOH.F","name":"LVMH MOET HENNESSY VUITTON SE","exchange":"FRA","type":"EQUITY"},{"name":"Hennessy Maison - LVMH"}]
+[2026-05-14T22:34:04.497Z] API REQUEST: "DSY"
+[2026-05-14T22:34:04.498Z] searchYahoo type: function
+[2026-05-14T22:34:04.720Z] searchYahoo results: [{"symbol":"DSY","name":"Big Tree Cloud Holdings Limited","exchange":"NCM","type":"EQUITY"},{"symbol":"DSY.PA","name":"DASSAULT SYSTEMES","exchange":"PAR","type":"EQUITY"},{"symbol":"DSYA.F","name":"Dassault Systemes SE          A","exchange":"FRA","type":"EQUITY"},{"symbol":"DSY.DU","name":"Dassault Systemes SE          A","exchange":"DUS","type":"EQUITY"},{"symbol":"DSYNC-USD","name":"Destra Network USD","exchange":"CCC","type":"CRYPTOCURRENCY"},{"name":"DSYNC"},{"name":"Don’t Scratch Your Head (DSYH)"}]
+[2026-05-14T22:34:21.480Z] API REQUEST: "ADBE"
+[2026-05-14T22:34:21.481Z] searchYahoo type: function
+[2026-05-14T22:34:21.664Z] searchYahoo results: [{"symbol":"ADBE","name":"Adobe Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"ADBE261218P00400000","name":"ADBE Dec 2026 400.000 put","exchange":"OPR","type":"OPTION"},{"symbol":"ADBE.BA","name":"ADOBE INC CEDEAR EACH 44 REP 1","exchange":"BUE","type":"EQUITY"},{"symbol":"ADBE.SW","name":"ADOBE INC","exchange":"EBS","type":"EQUITY"},{"symbol":"ADBE.MX","name":"ADOBE INC","exchange":"MEX","type":"EQUITY"},{"symbol":"ADBED.BA","name":"ADOBE INC CEDEAR EAC 44 REP 1(U","exchange":"BUE","type":"EQUITY"},{"name":"Adbell Media"}]
+[2026-05-14T22:34:34.557Z] API REQUEST: "ADBDE"
+[2026-05-14T22:34:34.557Z] searchYahoo type: function
+[2026-05-14T22:34:34.752Z] searchYahoo results: []
+[2026-05-14T22:34:35.433Z] API REQUEST: "ADB"
+[2026-05-14T22:34:35.434Z] searchYahoo type: function
+[2026-05-14T22:34:35.566Z] searchYahoo results: [{"symbol":"ADBE","name":"Adobe Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"ADB-R.BK","name":"ADB_APPLIED DB","exchange":"SET","type":"EQUITY"},{"symbol":"ADB.BK","name":"ADB_APPLIED DB","exchange":"SET","type":"EQUITY"},{"symbol":"ADBE261218P00400000","name":"ADBE Dec 2026 400.000 put","exchange":"OPR","type":"OPTION"},{"symbol":"ADBN","name":"AMERICANA DISTRIBUTION INC","exchange":"PNK","type":"EQUITY"},{"name":"ADB Ventures"},{"name":"ADBioplastics"}]
+[2026-05-14T22:34:36.125Z] API REQUEST: "ADBE"
+[2026-05-14T22:34:36.126Z] searchYahoo type: function
+[2026-05-14T22:34:36.222Z] searchYahoo results: [{"symbol":"ADBE","name":"Adobe Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"ADBE261218P00400000","name":"ADBE Dec 2026 400.000 put","exchange":"OPR","type":"OPTION"},{"symbol":"ADBE.BA","name":"ADOBE INC CEDEAR EACH 44 REP 1","exchange":"BUE","type":"EQUITY"},{"symbol":"ADBE.SW","name":"ADOBE INC","exchange":"EBS","type":"EQUITY"},{"symbol":"ADBED.BA","name":"ADOBE INC CEDEAR EAC 44 REP 1(U","exchange":"BUE","type":"EQUITY"},{"symbol":"ADBE.MX","name":"ADOBE INC","exchange":"MEX","type":"EQUITY"},{"name":"Adbell Media"}]
+[2026-05-14T22:34:41.274Z] API REQUEST: "ADBE"
+[2026-05-14T22:34:41.275Z] searchYahoo type: function
+[2026-05-14T22:34:41.374Z] searchYahoo results: [{"symbol":"ADBE","name":"Adobe Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"ADBE261218P00400000","name":"ADBE Dec 2026 400.000 put","exchange":"OPR","type":"OPTION"},{"symbol":"ADBE.SW","name":"ADOBE INC","exchange":"EBS","type":"EQUITY"},{"symbol":"ADBE.BA","name":"ADOBE INC CEDEAR EACH 44 REP 1","exchange":"BUE","type":"EQUITY"},{"symbol":"ADBED.BA","name":"ADOBE INC CEDEAR EAC 44 REP 1(U","exchange":"BUE","type":"EQUITY"},{"symbol":"ADBE.MX","name":"ADOBE INC","exchange":"MEX","type":"EQUITY"},{"name":"Adbell Media"}]
+[2026-05-14T22:35:15.330Z] API REQUEST: "PL"
+[2026-05-14T22:35:15.330Z] searchYahoo type: function
+[2026-05-14T22:35:15.506Z] searchYahoo results: [{"symbol":"PL","name":"Planet Labs PBC","exchange":"NYQ","type":"EQUITY"},{"symbol":"PL=F","name":"Platinum Jul 26","exchange":"NYM","type":"FUTURE"},{"symbol":"CU=F","name":"Chicago Ethanol (Platts) Future","exchange":"NYM","type":"FUTURE"},{"symbol":"PLN=X","name":"USD/PLN","exchange":"CCY","type":"CURRENCY"},{"symbol":"EURPLN=X","name":"EUR/PLN","exchange":"CCY","type":"CURRENCY"},{"name":"Plug and Play"},{"name":"Playground Global"}]
+[2026-05-14T22:35:15.696Z] API REQUEST: "PLT"
+[2026-05-14T22:35:15.697Z] searchYahoo type: function
+[2026-05-14T22:35:15.864Z] searchYahoo results: [{"symbol":"PLT=F","name":"Platinum TAS Futures,Jul-2026","exchange":"NYM","type":"FUTURE"},{"symbol":"PLTR","name":"Palantir Technologies Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"PLTU","name":"Direxion Daily PLTR Bull 2X ETF","exchange":"NGM","type":"ETF"},{"symbol":"PLTK","name":"Playtika Holding Corp.","exchange":"NMS","type":"EQUITY"},{"symbol":"PLT.BK","name":"PLT_PILATUS MARINE","exchange":"SET","type":"EQUITY"},{"name":"PLT energia Srl"},{"name":"PLT4M"}]
+[2026-05-14T22:35:17.782Z] API REQUEST: "PLTR"
+[2026-05-14T22:35:17.783Z] searchYahoo type: function
+[2026-05-14T22:35:17.895Z] searchYahoo results: [{"symbol":"PLTR","name":"Palantir Technologies Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"PLTU","name":"Direxion Daily PLTR Bull 2X ETF","exchange":"NGM","type":"ETF"},{"symbol":"PLTA","name":"ProShares Ultra PLTR","exchange":"PCX","type":"ETF"},{"symbol":"PLTZ","name":"Defiance Daily Target 2x Short ","exchange":"NGM","type":"ETF"},{"symbol":"PLTR-USD","name":"Palantir Technologies Inc (Derivatives) USD","exchange":"CCC","type":"CRYPTOCURRENCY"},{"symbol":"PLTI","name":"REX PLTR Growth & Income ETF","exchange":"BTS","type":"ETF"}]
+[2026-05-14T22:35:55.851Z] API REQUEST: "PL"
+[2026-05-14T22:35:55.851Z] searchYahoo type: function
+[2026-05-14T22:35:55.931Z] searchYahoo results: [{"symbol":"PL","name":"Planet Labs PBC","exchange":"NYQ","type":"EQUITY"},{"symbol":"PL=F","name":"Platinum Jul 26","exchange":"NYM","type":"FUTURE"},{"symbol":"CU=F","name":"Chicago Ethanol (Platts) Future","exchange":"NYM","type":"FUTURE"},{"symbol":"PLN=X","name":"USD/PLN","exchange":"CCY","type":"CURRENCY"},{"symbol":"EURPLN=X","name":"EUR/PLN","exchange":"CCY","type":"CURRENCY"},{"name":"Plug and Play"},{"name":"Playground Global"}]
+[2026-05-14T22:35:56.445Z] API REQUEST: "PLTR"
+[2026-05-14T22:35:56.446Z] searchYahoo type: function
+[2026-05-14T22:35:56.527Z] searchYahoo results: [{"symbol":"PLTR","name":"Palantir Technologies Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"PLTU","name":"Direxion Daily PLTR Bull 2X ETF","exchange":"NGM","type":"ETF"},{"symbol":"PLTA","name":"ProShares Ultra PLTR","exchange":"PCX","type":"ETF"},{"symbol":"PLTZ","name":"Defiance Daily Target 2x Short ","exchange":"NGM","type":"ETF"},{"symbol":"PLTR-USD","name":"Palantir Technologies Inc (Derivatives) USD","exchange":"CCC","type":"CRYPTOCURRENCY"},{"symbol":"PLTR.TO","name":"PALANTIR CDR (CAD HEDGED)","exchange":"TOR","type":"ETF"}]
+[2026-05-14T22:44:15.399Z] API REQUEST: "lv"
+[2026-05-14T22:44:15.400Z] searchYahoo type: function
+[2026-05-14T22:44:15.514Z] searchYahoo results: [{"symbol":"LVDS","name":"J.P. Morgan Exchange-Traded Fun","exchange":"NGM","type":"EQUITY"},{"symbol":"MC.PA","name":"LVMH","exchange":"PAR","type":"EQUITY"},{"symbol":"LVS","name":"Las Vegas Sands Corp.","exchange":"NYQ","type":"EQUITY"},{"symbol":"HOD.TO","name":"BETAPRO CRUDE OIL INV LVGD DLY ","exchange":"TOR","type":"ETF"},{"symbol":"HOU.TO","name":"BETAPRO CRUDE OIL LVGD DLY BULL","exchange":"TOR","type":"ETF"},{"name":"LVX Ventures"},{"name":"TEMBO E-LV"}]
+[2026-05-14T22:44:16.473Z] API REQUEST: "lvm"
+[2026-05-14T22:44:16.474Z] searchYahoo type: function
+[2026-05-14T22:44:16.668Z] searchYahoo results: [{"symbol":"MC.PA","name":"LVMH","exchange":"PAR","type":"EQUITY"},{"symbol":"LV.NE","name":"LVMH CDR (CAD HEDGED)","exchange":"NEO","type":"EQUITY"},{"symbol":"LVMUY","name":"LVMH-Moet Hennessy Louis Vuitto","exchange":"PNK","type":"EQUITY"},{"symbol":"AT0000A324Q2.VI","name":"EB MemExpr LVMH SE 23-28","exchange":"VIE","type":"EQUITY"},{"symbol":"4MC.TI","name":"LVMH","exchange":"TLO","type":"EQUITY"},{"name":"Lvmama"},{"name":"Hennessy Maison - LVMH"}]
+[2026-05-14T22:44:16.984Z] API REQUEST: "lvmh"
+[2026-05-14T22:44:16.985Z] searchYahoo type: function
+[2026-05-14T22:44:17.107Z] searchYahoo results: [{"symbol":"MC.PA","name":"LVMH","exchange":"PAR","type":"EQUITY"},{"symbol":"LV.NE","name":"LVMH CDR (CAD HEDGED)","exchange":"NEO","type":"EQUITY"},{"symbol":"LVMUY","name":"LVMH-Moet Hennessy Louis Vuitto","exchange":"PNK","type":"EQUITY"},{"symbol":"AT0000A324Q2.VI","name":"EB MemExpr LVMH SE 23-28","exchange":"VIE","type":"EQUITY"},{"symbol":"4MC.TI","name":"LVMH","exchange":"TLO","type":"EQUITY"},{"symbol":"MOH.F","name":"LVMH MOET HENNESSY VUITTON SE","exchange":"FRA","type":"EQUITY"},{"name":"Hennessy Maison - LVMH"}]
+[2026-05-14T22:44:25.309Z] API REQUEST: "ev"
+[2026-05-14T22:44:25.310Z] searchYahoo type: function
+[2026-05-14T22:44:25.463Z] searchYahoo results: [{"symbol":"EVLV","name":"Evolv Technologies Holdings, In","exchange":"NCM","type":"EQUITY"},{"symbol":"MRAM","name":"Everspin Technologies, Inc.","exchange":"NGM","type":"EQUITY"},{"symbol":"EVGO","name":"EVgo Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"P","name":"Everpure, Inc.","exchange":"NYQ","type":"EQUITY"},{"symbol":"EVO.ST","name":"Evolution AB","exchange":"STO","type":"EQUITY"},{"name":"EvenUp"},{"name":"The EVERY Company"}]
+[2026-05-14T22:44:26.865Z] API REQUEST: "evol"
+[2026-05-14T22:44:26.866Z] searchYahoo type: function
+[2026-05-14T22:44:27.064Z] searchYahoo results: [{"symbol":"EVLV","name":"Evolv Technologies Holdings, In","exchange":"NCM","type":"EQUITY"},{"symbol":"EVO.ST","name":"Evolution AB","exchange":"STO","type":"EQUITY"},{"symbol":"EMAT","name":"Evolution Metals & Technologies","exchange":"NGM","type":"EQUITY"},{"symbol":"EVH","name":"Evolent Health, Inc","exchange":"NYQ","type":"EQUITY"},{"symbol":"0P0001PVD2.F","name":"0P0001PVD2.F","exchange":"FRA","type":"MUTUALFUND"},{"name":"EvolutionaryScale"},{"name":"Evolve"}]
+[2026-05-14T22:44:27.227Z] API REQUEST: "evolu"
+[2026-05-14T22:44:27.228Z] searchYahoo type: function
+[2026-05-14T22:44:27.382Z] searchYahoo results: [{"symbol":"EVO.ST","name":"Evolution AB","exchange":"STO","type":"EQUITY"},{"symbol":"EMAT","name":"Evolution Metals & Technologies","exchange":"NGM","type":"EQUITY"},{"symbol":"0P0001PVD2.F","name":"0P0001PVD2.F","exchange":"FRA","type":"MUTUALFUND"},{"symbol":"EOLS","name":"Evolus, Inc. Common Stock","exchange":"NGM","type":"EQUITY"},{"symbol":"EPM","name":"Evolution Petroleum Corporation","exchange":"ASE","type":"EQUITY"},{"name":"EvolutionaryScale"},{"name":"EvolutionIQ"}]
+[2026-05-14T22:44:27.696Z] API REQUEST: "evolut"
+[2026-05-14T22:44:27.696Z] searchYahoo type: function
+[2026-05-14T22:44:27.835Z] searchYahoo results: [{"symbol":"EVO.ST","name":"Evolution AB","exchange":"STO","type":"EQUITY"},{"symbol":"EMAT","name":"Evolution Metals & Technologies","exchange":"NGM","type":"EQUITY"},{"symbol":"EPM","name":"Evolution Petroleum Corporation","exchange":"ASE","type":"EQUITY"},{"symbol":"EVN.AX","name":"EVOLUTION FPO [EVN]","exchange":"ASX","type":"EQUITY"},{"symbol":"EVGGF","name":"Evolution AB","exchange":"PNK","type":"EQUITY"},{"name":"EvolutionaryScale"},{"name":"EvolutionIQ"}]
+[2026-05-14T22:44:28.679Z] API REQUEST: "evolution"
+[2026-05-14T22:44:28.680Z] searchYahoo type: function
+[2026-05-14T22:44:28.826Z] searchYahoo results: [{"symbol":"EVO.ST","name":"Evolution AB","exchange":"STO","type":"EQUITY"},{"symbol":"EMAT","name":"Evolution Metals & Technologies","exchange":"NGM","type":"EQUITY"},{"symbol":"EPM","name":"Evolution Petroleum Corporation","exchange":"ASE","type":"EQUITY"},{"symbol":"EVGGF","name":"Evolution AB","exchange":"PNK","type":"EQUITY"},{"symbol":"EVN.AX","name":"EVOLUTION FPO [EVN]","exchange":"ASX","type":"EQUITY"},{"name":"EvolutionaryScale"},{"name":"EvolutionIQ"}]
+[2026-05-14T22:44:41.163Z] API REQUEST: "evolution A"
+[2026-05-14T22:44:41.163Z] searchYahoo type: function
+[2026-05-14T22:44:41.367Z] searchYahoo results: [{"symbol":"EVO.ST","name":"Evolution AB","exchange":"STO","type":"EQUITY"},{"symbol":"EVGGF","name":"Evolution AB","exchange":"PNK","type":"EQUITY"},{"symbol":"E3G.F","name":"Evolution AB (publ)           N","exchange":"FRA","type":"EQUITY"},{"symbol":"0P0001OR71","name":"KITE Evolution Fund A Acc\",","exchange":"PNK","type":"MUTUALFUND"},{"symbol":"EVVTY","name":"Evolution AB","exchange":"PNK","type":"EQUITY"},{"name":"Evolution Aqua"},{"name":"Evolution Alliance"}]
+[2026-05-14T22:44:41.945Z] API REQUEST: "evolution AB"
+[2026-05-14T22:44:41.945Z] searchYahoo type: function
+[2026-05-14T22:44:42.117Z] searchYahoo results: [{"symbol":"EVO.ST","name":"Evolution AB","exchange":"STO","type":"EQUITY"},{"symbol":"EVGGF","name":"Evolution AB","exchange":"PNK","type":"EQUITY"},{"symbol":"E3G.F","name":"Evolution AB (publ)           N","exchange":"FRA","type":"EQUITY"},{"symbol":"EVVTY","name":"Evolution AB","exchange":"PNK","type":"EQUITY"},{"symbol":"E3G1.SG","name":"Evolution Gaming Group AB","exchange":"STU","type":"EQUITY"},{"symbol":"E3G1.MU","name":"Evolution AB (publ)           N","exchange":"MUN","type":"EQUITY"}]
+[2026-05-14T22:45:05.053Z] API REQUEST: "evolution"
+[2026-05-14T22:45:05.054Z] searchYahoo type: function
+[2026-05-14T22:45:05.152Z] searchYahoo results: [{"symbol":"EVO.ST","name":"Evolution AB","exchange":"STO","type":"EQUITY"},{"symbol":"EMAT","name":"Evolution Metals & Technologies","exchange":"NGM","type":"EQUITY"},{"symbol":"EPM","name":"Evolution Petroleum Corporation","exchange":"ASE","type":"EQUITY"},{"symbol":"EVN.AX","name":"EVOLUTION FPO [EVN]","exchange":"ASX","type":"EQUITY"},{"symbol":"EVGGF","name":"Evolution AB","exchange":"PNK","type":"EQUITY"},{"name":"EvolutionaryScale"},{"name":"EvolutionIQ"}]
+[2026-05-14T22:45:05.736Z] API REQUEST: "evolution A"
+[2026-05-14T22:45:05.736Z] searchYahoo type: function
+[2026-05-14T22:45:05.834Z] searchYahoo results: [{"symbol":"EVO.ST","name":"Evolution AB","exchange":"STO","type":"EQUITY"},{"symbol":"EVGGF","name":"Evolution AB","exchange":"PNK","type":"EQUITY"},{"symbol":"E3G.F","name":"Evolution AB (publ)           N","exchange":"FRA","type":"EQUITY"},{"symbol":"0P0001OR71","name":"KITE Evolution Fund A Acc\",","exchange":"PNK","type":"MUTUALFUND"},{"symbol":"EVVTY","name":"Evolution AB","exchange":"PNK","type":"EQUITY"},{"name":"Evolution Aqua"},{"name":"Evolution Alliance"}]
+[2026-05-14T22:45:06.403Z] API REQUEST: "evolution AB"
+[2026-05-14T22:45:06.403Z] searchYahoo type: function
+[2026-05-14T22:45:06.505Z] searchYahoo results: [{"symbol":"EVO.ST","name":"Evolution AB","exchange":"STO","type":"EQUITY"},{"symbol":"EVGGF","name":"Evolution AB","exchange":"PNK","type":"EQUITY"},{"symbol":"E3G.F","name":"Evolution AB (publ)           N","exchange":"FRA","type":"EQUITY"},{"symbol":"EVVTY","name":"Evolution AB","exchange":"PNK","type":"EQUITY"},{"symbol":"E3G1.SG","name":"Evolution Gaming Group AB","exchange":"STU","type":"EQUITY"},{"symbol":"E3G1.MU","name":"Evolution AB (publ)           N","exchange":"MUN","type":"EQUITY"}]
+[2026-05-15T10:15:29.209Z] API REQUEST: "adbd"
+[2026-05-15T10:15:29.210Z] searchYahoo type: function
+[2026-05-15T10:15:29.352Z] searchYahoo results: [{"symbol":"ADBD.XD","name":"Adobe Inc","exchange":"DXE","type":"EQUITY"}]
+[2026-05-15T10:15:29.387Z] API REQUEST: "adbe"
+[2026-05-15T10:15:29.388Z] searchYahoo type: function
+[2026-05-15T10:15:29.558Z] searchYahoo results: [{"symbol":"ADBE","name":"Adobe Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"ADBE261218P00400000","name":"ADBE Dec 2026 400.000 put","exchange":"OPR","type":"OPTION"},{"symbol":"ADBED.BA","name":"ADOBE INC CEDEAR EAC 44 REP 1(U","exchange":"BUE","type":"EQUITY"},{"symbol":"ADBE.BA","name":"ADOBE INC CEDEAR EACH 44 REP 1","exchange":"BUE","type":"EQUITY"},{"symbol":"ADBE.MX","name":"ADOBE INC","exchange":"MEX","type":"EQUITY"},{"symbol":"ADBE.SW","name":"ADOBE INC","exchange":"EBS","type":"EQUITY"},{"name":"Adbell Media"}]
+[2026-05-15T10:15:29.831Z] API REQUEST: "adb"
+[2026-05-15T10:15:29.832Z] searchYahoo type: function
+[2026-05-15T10:15:29.954Z] searchYahoo results: [{"symbol":"ADBE","name":"Adobe Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"ADB-R.BK","name":"ADB_APPLIED DB","exchange":"SET","type":"EQUITY"},{"symbol":"ADB.BK","name":"ADB_APPLIED DB","exchange":"SET","type":"EQUITY"},{"symbol":"ADBE261218P00400000","name":"ADBE Dec 2026 400.000 put","exchange":"OPR","type":"OPTION"},{"symbol":"ADBED.BA","name":"ADOBE INC CEDEAR EAC 44 REP 1(U","exchange":"BUE","type":"EQUITY"},{"name":"ADB Ventures"},{"name":"ADBioplastics"}]
+[2026-05-15T10:15:30.309Z] API REQUEST: "adbe"
+[2026-05-15T10:15:30.309Z] searchYahoo type: function
+[2026-05-15T10:15:30.323Z] searchYahoo results: [{"symbol":"ADBE","name":"Adobe Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"ADBE261218P00400000","name":"ADBE Dec 2026 400.000 put","exchange":"OPR","type":"OPTION"},{"symbol":"ADBED.BA","name":"ADOBE INC CEDEAR EAC 44 REP 1(U","exchange":"BUE","type":"EQUITY"},{"symbol":"ADBE.BA","name":"ADOBE INC CEDEAR EACH 44 REP 1","exchange":"BUE","type":"EQUITY"},{"symbol":"ADBE.MX","name":"ADOBE INC","exchange":"MEX","type":"EQUITY"},{"symbol":"ADBE.SW","name":"ADOBE INC","exchange":"EBS","type":"EQUITY"},{"name":"Adbell Media"}]
+[2026-05-15T10:16:11.199Z] API REQUEST: "coc"
+[2026-05-15T10:16:11.200Z] searchYahoo type: function
+[2026-05-15T10:16:11.360Z] searchYahoo results: [{"symbol":"CC=F","name":"Cocoa Sep 26","exchange":"NYB","type":"FUTURE"},{"symbol":"KO","name":"Coca-Cola Company (The)","exchange":"NYQ","type":"EQUITY"},{"symbol":"COKE","name":"Coca-Cola Consolidated, Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"COCO","name":"The Vita Coco Company, Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"COCP","name":"Cocrystal Pharma, Inc.","exchange":"NCM","type":"EQUITY"},{"name":"Coco"},{"name":"Hindustan Coca-Cola Beverages"}]
+[2026-05-15T10:16:11.668Z] API REQUEST: "coca"
+[2026-05-15T10:16:11.669Z] searchYahoo type: function
+[2026-05-15T10:16:11.816Z] searchYahoo results: [{"symbol":"KO","name":"Coca-Cola Company (The)","exchange":"NYQ","type":"EQUITY"},{"symbol":"COKE","name":"Coca-Cola Consolidated, Inc.","exchange":"NMS","type":"EQUITY"},{"symbol":"CCEP","name":"Coca-Cola Europacific Partners ","exchange":"NMS","type":"EQUITY"},{"symbol":"KOF","name":"Coca Cola Femsa S.A.B. de C.V.","exchange":"NYQ","type":"EQUITY"},{"symbol":"CCW.F","name":"Coca-Cola Bottlers JP Hldg.IncR","exchange":"FRA","type":"EQUITY"},{"name":"Hindustan Coca-Cola Beverages"},{"name":"Coca Cola UNITED"}]

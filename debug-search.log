@@ -1,0 +1,156 @@
+[2026-05-14T22:30:10.407Z] SEARCH REQUEST RECEIVED: "MS"
+[2026-05-14T22:30:10.409Z] Calling Yahoo Search API for "MS"...
+[2026-05-14T22:30:10.540Z] GENERAL SEARCH ERROR for "MS": Failed Yahoo Schema validation
+[2026-05-14T22:30:12.596Z] SEARCH REQUEST RECEIVED: "MSFT"
+[2026-05-14T22:30:12.596Z] Calling Yahoo Search API for "MSFT"...
+[2026-05-14T22:30:12.700Z] GENERAL SEARCH ERROR for "MSFT": Failed Yahoo Schema validation
+[2026-05-14T22:30:47.172Z] SEARCH REQUEST RECEIVED: "AAPL"
+[2026-05-14T22:30:47.173Z] Calling Yahoo Search API for "AAPL"...
+[2026-05-14T22:30:47.270Z] GENERAL SEARCH ERROR for "AAPL": Failed Yahoo Schema validation
+[2026-05-14T22:32:11.524Z] SEARCH REQUEST RECEIVED: "test"
+[2026-05-14T22:32:11.524Z] Calling Yahoo Search API for "test"...
+[2026-05-14T22:33:26.315Z] SEARCH REQUEST RECEIVED: "AA"
+[2026-05-14T22:33:26.316Z] Calling Yahoo Search API for "AA"...
+[2026-05-14T22:33:26.483Z] Found 7 results via Search API
+[2026-05-14T22:33:26.484Z] Returning 7 results
+[2026-05-14T22:33:27.043Z] SEARCH REQUEST RECEIVED: "AAP"
+[2026-05-14T22:33:27.044Z] Calling Yahoo Search API for "AAP"...
+[2026-05-14T22:33:27.184Z] Found 7 results via Search API
+[2026-05-14T22:33:27.185Z] Returning 7 results
+[2026-05-14T22:33:29.634Z] SEARCH REQUEST RECEIVED: "AAPL"
+[2026-05-14T22:33:29.635Z] Calling Yahoo Search API for "AAPL"...
+[2026-05-14T22:33:29.752Z] Found 7 results via Search API
+[2026-05-14T22:33:29.752Z] Returning 7 results
+[2026-05-14T22:33:52.715Z] SEARCH REQUEST RECEIVED: "LV"
+[2026-05-14T22:33:52.716Z] Calling Yahoo Search API for "LV"...
+[2026-05-14T22:33:52.887Z] Found 7 results via Search API
+[2026-05-14T22:33:52.888Z] Returning 7 results
+[2026-05-14T22:33:53.228Z] SEARCH REQUEST RECEIVED: "LVM"
+[2026-05-14T22:33:53.228Z] Calling Yahoo Search API for "LVM"...
+[2026-05-14T22:33:53.345Z] Found 7 results via Search API
+[2026-05-14T22:33:53.346Z] Returning 7 results
+[2026-05-14T22:33:53.608Z] SEARCH REQUEST RECEIVED: "LVMH"
+[2026-05-14T22:33:53.609Z] Calling Yahoo Search API for "LVMH"...
+[2026-05-14T22:33:53.758Z] Found 7 results via Search API
+[2026-05-14T22:33:53.760Z] Returning 7 results
+[2026-05-14T22:34:04.498Z] SEARCH REQUEST RECEIVED: "DSY"
+[2026-05-14T22:34:04.498Z] Calling Yahoo Search API for "DSY"...
+[2026-05-14T22:34:04.718Z] Found 7 results via Search API
+[2026-05-14T22:34:04.719Z] Returning 7 results
+[2026-05-14T22:34:21.481Z] SEARCH REQUEST RECEIVED: "ADBE"
+[2026-05-14T22:34:21.482Z] Calling Yahoo Search API for "ADBE"...
+[2026-05-14T22:34:21.663Z] Found 7 results via Search API
+[2026-05-14T22:34:21.664Z] Returning 7 results
+[2026-05-14T22:34:34.558Z] SEARCH REQUEST RECEIVED: "ADBDE"
+[2026-05-14T22:34:34.559Z] Calling Yahoo Search API for "ADBDE"...
+[2026-05-14T22:34:34.666Z] Found 0 results via Search API
+[2026-05-14T22:34:34.666Z] Fallback: Trying direct quote for "ADBDE"
+[2026-05-14T22:34:34.752Z] Returning 0 results
+[2026-05-14T22:34:35.434Z] SEARCH REQUEST RECEIVED: "ADB"
+[2026-05-14T22:34:35.435Z] Calling Yahoo Search API for "ADB"...
+[2026-05-14T22:34:35.565Z] Found 7 results via Search API
+[2026-05-14T22:34:35.565Z] Returning 7 results
+[2026-05-14T22:34:36.127Z] SEARCH REQUEST RECEIVED: "ADBE"
+[2026-05-14T22:34:36.127Z] Calling Yahoo Search API for "ADBE"...
+[2026-05-14T22:34:36.221Z] Found 7 results via Search API
+[2026-05-14T22:34:36.222Z] Returning 7 results
+[2026-05-14T22:34:41.275Z] SEARCH REQUEST RECEIVED: "ADBE"
+[2026-05-14T22:34:41.275Z] Calling Yahoo Search API for "ADBE"...
+[2026-05-14T22:34:41.373Z] Found 7 results via Search API
+[2026-05-14T22:34:41.374Z] Returning 7 results
+[2026-05-14T22:35:15.331Z] SEARCH REQUEST RECEIVED: "PL"
+[2026-05-14T22:35:15.332Z] Calling Yahoo Search API for "PL"...
+[2026-05-14T22:35:15.504Z] Found 7 results via Search API
+[2026-05-14T22:35:15.505Z] Returning 7 results
+[2026-05-14T22:35:15.697Z] SEARCH REQUEST RECEIVED: "PLT"
+[2026-05-14T22:35:15.698Z] Calling Yahoo Search API for "PLT"...
+[2026-05-14T22:35:15.862Z] Found 7 results via Search API
+[2026-05-14T22:35:15.863Z] Returning 7 results
+[2026-05-14T22:35:17.784Z] SEARCH REQUEST RECEIVED: "PLTR"
+[2026-05-14T22:35:17.784Z] Calling Yahoo Search API for "PLTR"...
+[2026-05-14T22:35:17.894Z] Found 6 results via Search API
+[2026-05-14T22:35:17.895Z] Returning 6 results
+[2026-05-14T22:35:55.852Z] SEARCH REQUEST RECEIVED: "PL"
+[2026-05-14T22:35:55.854Z] Calling Yahoo Search API for "PL"...
+[2026-05-14T22:35:55.929Z] Found 7 results via Search API
+[2026-05-14T22:35:55.930Z] Returning 7 results
+[2026-05-14T22:35:56.447Z] SEARCH REQUEST RECEIVED: "PLTR"
+[2026-05-14T22:35:56.447Z] Calling Yahoo Search API for "PLTR"...
+[2026-05-14T22:35:56.526Z] Found 6 results via Search API
+[2026-05-14T22:35:56.527Z] Returning 6 results
+[2026-05-14T22:44:15.400Z] SEARCH REQUEST RECEIVED: "lv"
+[2026-05-14T22:44:15.401Z] Calling Yahoo Search API for "lv"...
+[2026-05-14T22:44:15.513Z] Found 7 results via Search API
+[2026-05-14T22:44:15.514Z] Returning 7 results
+[2026-05-14T22:44:16.474Z] SEARCH REQUEST RECEIVED: "lvm"
+[2026-05-14T22:44:16.474Z] Calling Yahoo Search API for "lvm"...
+[2026-05-14T22:44:16.666Z] Found 7 results via Search API
+[2026-05-14T22:44:16.667Z] Returning 7 results
+[2026-05-14T22:44:16.985Z] SEARCH REQUEST RECEIVED: "lvmh"
+[2026-05-14T22:44:16.986Z] Calling Yahoo Search API for "lvmh"...
+[2026-05-14T22:44:17.103Z] Found 7 results via Search API
+[2026-05-14T22:44:17.105Z] Returning 7 results
+[2026-05-14T22:44:25.310Z] SEARCH REQUEST RECEIVED: "ev"
+[2026-05-14T22:44:25.310Z] Calling Yahoo Search API for "ev"...
+[2026-05-14T22:44:25.462Z] Found 7 results via Search API
+[2026-05-14T22:44:25.462Z] Returning 7 results
+[2026-05-14T22:44:26.867Z] SEARCH REQUEST RECEIVED: "evol"
+[2026-05-14T22:44:26.867Z] Calling Yahoo Search API for "evol"...
+[2026-05-14T22:44:27.061Z] Found 7 results via Search API
+[2026-05-14T22:44:27.063Z] Returning 7 results
+[2026-05-14T22:44:27.228Z] SEARCH REQUEST RECEIVED: "evolu"
+[2026-05-14T22:44:27.228Z] Calling Yahoo Search API for "evolu"...
+[2026-05-14T22:44:27.381Z] Found 7 results via Search API
+[2026-05-14T22:44:27.381Z] Returning 7 results
+[2026-05-14T22:44:27.697Z] SEARCH REQUEST RECEIVED: "evolut"
+[2026-05-14T22:44:27.697Z] Calling Yahoo Search API for "evolut"...
+[2026-05-14T22:44:27.832Z] Found 7 results via Search API
+[2026-05-14T22:44:27.834Z] Returning 7 results
+[2026-05-14T22:44:28.680Z] SEARCH REQUEST RECEIVED: "evolution"
+[2026-05-14T22:44:28.681Z] Calling Yahoo Search API for "evolution"...
+[2026-05-14T22:44:28.823Z] Found 7 results via Search API
+[2026-05-14T22:44:28.824Z] Returning 7 results
+[2026-05-14T22:44:41.164Z] SEARCH REQUEST RECEIVED: "evolution A"
+[2026-05-14T22:44:41.164Z] Calling Yahoo Search API for "evolution A"...
+[2026-05-14T22:44:41.366Z] Found 7 results via Search API
+[2026-05-14T22:44:41.367Z] Returning 7 results
+[2026-05-14T22:44:41.946Z] SEARCH REQUEST RECEIVED: "evolution AB"
+[2026-05-14T22:44:41.946Z] Calling Yahoo Search API for "evolution AB"...
+[2026-05-14T22:44:42.116Z] Found 6 results via Search API
+[2026-05-14T22:44:42.117Z] Returning 6 results
+[2026-05-14T22:45:05.054Z] SEARCH REQUEST RECEIVED: "evolution"
+[2026-05-14T22:45:05.055Z] Calling Yahoo Search API for "evolution"...
+[2026-05-14T22:45:05.151Z] Found 7 results via Search API
+[2026-05-14T22:45:05.152Z] Returning 7 results
+[2026-05-14T22:45:05.737Z] SEARCH REQUEST RECEIVED: "evolution A"
+[2026-05-14T22:45:05.737Z] Calling Yahoo Search API for "evolution A"...
+[2026-05-14T22:45:05.833Z] Found 7 results via Search API
+[2026-05-14T22:45:05.833Z] Returning 7 results
+[2026-05-14T22:45:06.404Z] SEARCH REQUEST RECEIVED: "evolution AB"
+[2026-05-14T22:45:06.405Z] Calling Yahoo Search API for "evolution AB"...
+[2026-05-14T22:45:06.504Z] Found 6 results via Search API
+[2026-05-14T22:45:06.505Z] Returning 6 results
+[2026-05-15T10:15:29.211Z] SEARCH REQUEST RECEIVED: "adbd"
+[2026-05-15T10:15:29.211Z] Calling Yahoo Search API for "adbd"...
+[2026-05-15T10:15:29.351Z] Found 1 results via Search API
+[2026-05-15T10:15:29.352Z] Returning 1 results
+[2026-05-15T10:15:29.388Z] SEARCH REQUEST RECEIVED: "adbe"
+[2026-05-15T10:15:29.389Z] Calling Yahoo Search API for "adbe"...
+[2026-05-15T10:15:29.557Z] Found 7 results via Search API
+[2026-05-15T10:15:29.558Z] Returning 7 results
+[2026-05-15T10:15:29.833Z] SEARCH REQUEST RECEIVED: "adb"
+[2026-05-15T10:15:29.833Z] Calling Yahoo Search API for "adb"...
+[2026-05-15T10:15:29.951Z] Found 7 results via Search API
+[2026-05-15T10:15:29.953Z] Returning 7 results
+[2026-05-15T10:15:30.310Z] SEARCH REQUEST RECEIVED: "adbe"
+[2026-05-15T10:15:30.310Z] Calling Yahoo Search API for "adbe"...
+[2026-05-15T10:15:30.322Z] Found 7 results via Search API
+[2026-05-15T10:15:30.323Z] Returning 7 results
+[2026-05-15T10:16:11.203Z] SEARCH REQUEST RECEIVED: "coc"
+[2026-05-15T10:16:11.203Z] Calling Yahoo Search API for "coc"...
+[2026-05-15T10:16:11.359Z] Found 7 results via Search API
+[2026-05-15T10:16:11.359Z] Returning 7 results
+[2026-05-15T10:16:11.669Z] SEARCH REQUEST RECEIVED: "coca"
+[2026-05-15T10:16:11.670Z] Calling Yahoo Search API for "coca"...
+[2026-05-15T10:16:11.814Z] Found 7 results via Search API
+[2026-05-15T10:16:11.815Z] Returning 7 results
