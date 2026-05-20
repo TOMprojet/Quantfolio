@@ -14,46 +14,6 @@ interface AppLayoutClientProps {
 export default function AppLayoutClient({ children, initialSettings }: AppLayoutClientProps) {
     const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
-    useEffect(() => {
-        // Intercept runtime errors from browser extensions (e.g. MetaMask)
-        // to prevent Next.js dev server overlay from crashing the UI.
-        const handleError = (event: ErrorEvent) => {
-            const isExtensionError = 
-                (event.filename && event.filename.includes('chrome-extension://')) || 
-                (event.message && event.message.toLowerCase().includes('metamask')) ||
-                (event.error && event.error.stack && event.error.stack.includes('chrome-extension://')) ||
-                (event.error && event.error.message && event.error.message.toLowerCase().includes('metamask'));
-
-            if (isExtensionError) {
-                console.warn('Suppressed chrome extension error:', event.message);
-                event.preventDefault();
-                event.stopPropagation();
-            }
-        };
-
-        const handleRejection = (event: PromiseRejectionEvent) => {
-            const reason = event.reason;
-            const message = reason?.message || String(reason || '');
-            const stack = reason?.stack || '';
-            const isExtensionError = 
-                message.toLowerCase().includes('metamask') || 
-                stack.includes('chrome-extension://');
-
-            if (isExtensionError) {
-                console.warn('Suppressed chrome extension promise rejection:', message);
-                event.preventDefault();
-                event.stopPropagation();
-            }
-        };
-
-        window.addEventListener('error', handleError, true);
-        window.addEventListener('unhandledrejection', handleRejection, true);
-        return () => {
-            window.removeEventListener('error', handleError, true);
-            window.removeEventListener('unhandledrejection', handleRejection, true);
-        };
-    }, []);
-
     return (
         <SettingsProvider initialSettings={initialSettings}>
             <div className="flex h-screen w-full bg-background overflow-hidden relative">
